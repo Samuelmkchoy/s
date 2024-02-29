@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "791592586779",
+    "project_id": "bloghub-271d6",
+    "storage_bucket": "bloghub-271d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791592586779:android:efa715f51571d454db32be",
+        "android_client_info": {
+          "package_name": "com.example.bloghub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791592586779-u4lnqkl09bol1go8fcttt35bgo1ga2ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeyJXPh3ZmcNeNxJR6oSkQwyVP9ikB2Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791592586779-u4lnqkl09bol1go8fcttt35bgo1ga2ht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791592586779-6cbd2n19kdgg21sdngcr411uc33n684c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bloghub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
